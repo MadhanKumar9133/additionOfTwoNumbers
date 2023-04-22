@@ -1,5 +1,5 @@
-def add(a,b):
-    result = a + b 
+def add(x,y):
+    result = x + y 
     return result
 
 num1 = int(input())
